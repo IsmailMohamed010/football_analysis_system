@@ -1,0 +1,5 @@
+ulralytics
+supervision
+opencv-python
+numpy 
+pandas
